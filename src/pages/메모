@@ -1,0 +1,21 @@
+프로젝트를 처음 만들고 설계를 시작할 때, 
+리액트 라우터를 프로젝트에 설치하고 적용하는 것 이다.
+
+react-router-dom 라이브러리 설치 후, 페이지의 라우트 컴포넌트를 미리 만들어 틀을 갖춰놓는다. 
+
+★★★ HomePage.js - Home 
+★★★ LoginPage.js - 로그인
+★★★ SignupPage.js - 회원가입
+--------------------------
+<서비스> 화상통화 Page  
+
+
+
+WritePage.js - 글쓰기
+PostPage.js - 포스트 읽기
+PostListPage.js - 포스트 목록
+
+
+ 
+비즈니스 광고대행 Page 
+월간구독 결제 Page
